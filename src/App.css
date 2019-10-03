@@ -11,7 +11,7 @@
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: whitesmoke;
 }
 
 ul {
@@ -37,4 +37,22 @@ ul {
 
 .car-paper {
   padding: 50px;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.cardz{
+  display: inline-block;
+  width: 400px;
+  border-radius: 100%;
+  margin: 4em;
+  padding: 2em;
+}
+.link{
+  color: black;
 }
